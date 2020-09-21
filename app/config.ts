@@ -12,7 +12,7 @@ const TEXT_STYLE = {
         fontSize: 22
     },
     huge: {
-
+        fontSize: 26
     }
 };
 
